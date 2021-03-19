@@ -1,0 +1,20 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/arun-app/test2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git": "git add . && git commit -m \"code update\" && git push "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun-app/test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arun-app/test2/issues"
+  },
+  "homepage": "https://github.com/arun-app/test2#readme"
+}
